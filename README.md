@@ -2,7 +2,7 @@
 <img alt='Hello' src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <br>
 
-I'm a full stack Python developer
+I'm a Python Backend Developer
 </h1>
 
 <table align="center">
