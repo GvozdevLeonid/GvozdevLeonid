@@ -21,7 +21,7 @@ I'm a Python Backend Developer
     </tr>
     <tr>
       <td align='center'>
-[<img width="400" height="45" alt="donate" src="https://github.com/user-attachments/assets/a0091675-d061-4b36-a40b-f1af05772ff8" />](https://www.paypal.com/ncp/payment/ZTKNT93JWBD8A)
+      <!-- [<img width="400" height="45" alt="donate" src="https://github.com/user-attachments/assets/a0091675-d061-4b36-a40b-f1af05772ff8" />](https://www.paypal.com/ncp/payment/ZTKNT93JWBD8A) -->
       </td>
     </tr>
   </tbody>
