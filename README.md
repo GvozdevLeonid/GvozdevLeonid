@@ -10,8 +10,8 @@ I'm a Python Backend Developer
     <tr>
       <td align='center'>
 
-![Leonid's github stats](https://raw.githubusercontent.com/GvozdevLeonid/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Leonid's github languas](https://raw.githubusercontent.com/GvozdevLeonid/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Leonid's github stats](https://raw.githubusercontent.com/GvozdevLeonid/github-stats/master/generated/overview.svg)
+![Leonid's github languas](https://raw.githubusercontent.com/GvozdevLeonid/github-stats/master/generated/languages.svg)
       </td>
     </tr>
     <tr>
