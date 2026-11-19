@@ -18,7 +18,7 @@ I'm a Python Backend Developer
     </tr>
     <tr>
       <td align='center'>
-![Leonid's github details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GvozdevLeonid&theme=github_dark)
+![Leonid's github details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GvozdevLeonid&theme=transparent)
       </td>
     </tr>
     <tr>
